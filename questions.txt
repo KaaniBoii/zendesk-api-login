@@ -1,0 +1,12 @@
+Q: Wo werden Anmeldedaten für Vetguru angelegt? Wo landen die Daten?
+
+Q: Welcher Service genutzt für Seite?
+
+Q: Sterile Testumgebung ohne Kundendaten? Eigener Admin-Account zum Testen?
+
+Q: Gesamtbild, welche Services interagieren?
+
+Q: Bei Aufforderung zur Passwortänderung, wo findet diese statt? Wohin führt der Link in der Email?
+
+Q: Zendesk External Login?
+
